@@ -12,4 +12,9 @@ I will be Ok
 bytheway
 see you later
 don't pay attention to me
+
+I have never been there before
+and
+I must say that
+I am not cut out for this job
 >>>>>>> feature
